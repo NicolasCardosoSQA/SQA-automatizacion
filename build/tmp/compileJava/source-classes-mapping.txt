@@ -1,0 +1,12 @@
+com/altamira/qa/steps/InicioDeSesionSteps.java
+ com.altamira.qa.steps.InicioDeSesionSteps
+com/altamira/qa/models/Usuario.java
+ com.altamira.qa.models.Usuario
+com/altamira/qa/pageobjects/InicioDeSesionpageObject.java
+ com.altamira.qa.pageobjects.InicioDeSesionpageObject
+com/altamira/qa/pageobjects/ConsultaSaldoPageObject.java
+ com.altamira.qa.pageobjects.ConsultaSaldoPageObject
+com/altamira/qa/models/Insumo.java
+ com.altamira.qa.models.Insumo
+com/altamira/qa/steps/ConsultaSaldoSteps.java
+ com.altamira.qa.steps.ConsultaSaldoSteps

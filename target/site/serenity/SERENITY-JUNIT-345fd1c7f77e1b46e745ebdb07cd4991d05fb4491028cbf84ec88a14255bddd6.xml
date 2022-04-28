@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Inicio de sesion" skipped="0" tests="1" time="7.36" timestamp="2021-08-04 05:06:30"><testcase name="Inicio de sesion"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 89&#10;Current browser version is 92.0.4515.107 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'SQABOG-SQA2030', ip: '10.201.247.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'&#10;Driver info: driver.version: ProvideNewDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x00E5E7D3+124883]&#10;&#9;Ordinal0 [0x00E5E7B1+124849]&#10;&#9;GetHandleVerifier [0x010A8688+193832]&#10;&#9;GetHandleVerifier [0x010C3AC5+305509]&#10;&#9;GetHandleVerifier [0x010C021B+291003]&#10;&#9;GetHandleVerifier [0x010BE0AC+282444]&#10;&#9;GetHandleVerifier [0x010E4A90+440624]&#10;&#9;GetHandleVerifier [0x010E47FC+439964]&#10;&#9;GetHandleVerifier [0x010E154B+426987]&#10;&#9;GetHandleVerifier [0x010C4FFD+310941]&#10;&#9;GetHandleVerifier [0x010C5D8E+314414]&#10;&#9;GetHandleVerifier [0x010C5D19+314297]&#10;&#9;GetHandleVerifier [0x011831EC+1089676]&#10;&#9;GetHandleVerifier [0x011817C9+1082985]&#10;&#9;GetHandleVerifier [0x011813A3+1081923]&#10;&#9;GetHandleVerifier [0x0127D9FD+2115741]&#10;&#9;Ordinal0 [0x00FAB82E+1488942]&#10;&#9;Ordinal0 [0x00F45A7D+1071741]&#10;&#9;Ordinal0 [0x00F4559B+1070491]&#10;&#9;Ordinal0 [0x00F454B1+1070257]&#10;&#9;Ordinal0 [0x00F7FF53+1310547]&#10;&#9;BaseThreadInitThunk [0x772BFA29+25]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77787A7E+286]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77787A4E+238]&#10;). See below for more details." type="net.thucydides.core.webdriver.DriverConfigurationError">Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 89
+Current browser version is 92.0.4515.107 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SQABOG-SQA2030', ip: '10.201.247.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00E5E7D3+124883]
+	Ordinal0 [0x00E5E7B1+124849]
+	GetHandleVerifier [0x010A8688+193832]
+	GetHandleVerifier [0x010C3AC5+305509]
+	GetHandleVerifier [0x010C021B+291003]
+	GetHandleVerifier [0x010BE0AC+282444]
+	GetHandleVerifier [0x010E4A90+440624]
+	GetHandleVerifier [0x010E47FC+439964]
+	GetHandleVerifier [0x010E154B+426987]
+	GetHandleVerifier [0x010C4FFD+310941]
+	GetHandleVerifier [0x010C5D8E+314414]
+	GetHandleVerifier [0x010C5D19+314297]
+	GetHandleVerifier [0x011831EC+1089676]
+	GetHandleVerifier [0x011817C9+1082985]
+	GetHandleVerifier [0x011813A3+1081923]
+	GetHandleVerifier [0x0127D9FD+2115741]
+	Ordinal0 [0x00FAB82E+1488942]
+	Ordinal0 [0x00F45A7D+1071741]
+	Ordinal0 [0x00F4559B+1070491]
+	Ordinal0 [0x00F454B1+1070257]
+	Ordinal0 [0x00F7FF53+1310547]
+	BaseThreadInitThunk [0x772BFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77787A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x77787A4E+238]
+). See below for more details.</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 89
+Current browser version is 92.0.4515.107 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'SQABOG-SQA2030', ip: '10.201.247.196', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: ProvideNewDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x00E5E7D3+124883]
+	Ordinal0 [0x00E5E7B1+124849]
+	GetHandleVerifier [0x010A8688+193832]
+	GetHandleVerifier [0x010C3AC5+305509]
+	GetHandleVerifier [0x010C021B+291003]
+	GetHandleVerifier [0x010BE0AC+282444]
+	GetHandleVerifier [0x010E4A90+440624]
+	GetHandleVerifier [0x010E47FC+439964]
+	GetHandleVerifier [0x010E154B+426987]
+	GetHandleVerifier [0x010C4FFD+310941]
+	GetHandleVerifier [0x010C5D8E+314414]
+	GetHandleVerifier [0x010C5D19+314297]
+	GetHandleVerifier [0x011831EC+1089676]
+	GetHandleVerifier [0x011817C9+1082985]
+	GetHandleVerifier [0x011813A3+1081923]
+	GetHandleVerifier [0x0127D9FD+2115741]
+	Ordinal0 [0x00FAB82E+1488942]
+	Ordinal0 [0x00F45A7D+1071741]
+	Ordinal0 [0x00F4559B+1070491]
+	Ordinal0 [0x00F454B1+1070257]
+	Ordinal0 [0x00F7FF53+1310547]
+	BaseThreadInitThunk [0x772BFA29+25]
+	RtlGetAppContainerNamedObjectPath [0x77787A7E+286]
+	RtlGetAppContainerNamedObjectPath [0x77787A4E+238]
+). See below for more details.&#13;
+com.sqasa.web.demo.utils.KrakenWeb.abrirNavegadorEn(KrakenWeb.java:49)&#13;
+com.altamira.qa.steps.InicioDeSesionSteps.abrirAltamira(InicioDeSesionSteps.java:11)&#13;
+com.altamira.login.qa.stepdefinitions.InicioDeSesionStepDefinitions.queEstoyEnLaPaginaDeInicioDeAltamirA(InicioDeSesionStepDefinitions.java:20)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:86)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:538)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:760)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:460)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:206)&#13;
+</system-err></testcase></testsuite>
