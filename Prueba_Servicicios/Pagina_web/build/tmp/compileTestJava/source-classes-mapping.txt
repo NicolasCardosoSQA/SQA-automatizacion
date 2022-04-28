@@ -1,0 +1,8 @@
+com/movisarweb/qa/runners/PaginaWebRunners.java
+ com.movisarweb.qa.runners.PaginaWebRunners
+com/movisarweb/qa/stepdefinitions/ArmaPaqueteStepDefinitions.java
+ com.movisarweb.qa.stepdefinitions.ArmaPaqueteStepDefinitions
+com/movisarweb/qa/stepdefinitions/PaginaWebStepDefinitions.java
+ com.movisarweb.qa.stepdefinitions.PaginaWebStepDefinitions
+com/movisarweb/qa/runners/ArmaPaqueteRunners.java
+ com.movisarweb.qa.runners.ArmaPaqueteRunners

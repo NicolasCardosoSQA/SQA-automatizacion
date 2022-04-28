@@ -1,0 +1,605 @@
+<html lang="en" class=""><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<title>Paquetes Prepago</title>-->
+    <link rel="Movistar icon" href="/prepago/ventas-paquetes/assets/icons/favicon-movistar.ico">
+
+    
+    
+    
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="Encuentra los Paquetes Prepago Movistar con tus beneficios favoritos. Navega y habla ilimitadamente, por días o semanas, de acuerdo con tus necesidades. ¡Compra en línea!" name="description">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/prepago/ventas-paquetes/assets/css/movistar-basic2.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="/prepago/ventas-paquetes/assets/local-styles.css">
+
+
+    <script src="https://connect.facebook.net/signals/config/450968755538487?v=2.9.45&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/wxAi4AKLXL2kBAvXqI4XLSWS/recaptcha__es.js" crossorigin="anonymous" integrity="sha384-vVrLmjsoL0ep0HkE2FcyaZmsyGDD/SU3OI9Ma1F82WsYTrDYWLJn2Ff3ALu1B8Z2"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KBVPPT"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-M3SZDX3&amp;t=gtm61&amp;cid=1489465571.1631287026"></script><script referrerpolicy="no-referrer-when-downgrade" type="text/javascript" async="" src="https://api.retargetly.com/loader?id=1036" id="rely-api-0"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-SLRNF8ZXHQ&amp;l=dataLayer&amp;cx=c"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-KBVPPT"></script><script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+
+    <script src="/prepago/ventas-paquetes/nodemodules/jquery.scrollto/jquery.scrollTo.js"></script>
+    <script src="/prepago/ventas-paquetes/js/local-scripts.js"></script>
+
+    <script>
+        (function (h, o, t, j, a, r) {
+            h.hj = h.hj || function () { (h.hj.q = h.hj.q || []).push(arguments) };
+            h._hjSettings = { hjid: 707603, hjsv: 6 };
+            a = o.getElementsByTagName('head')[0];
+            r = o.createElement('script'); r.async = 1;
+            r.src = t + h._hjSettings.hjid + j + h._hjSettings.hjsv;
+            a.appendChild(r);
+        })(window, document, 'https://static.hotjar.com/c/hotjar-', '.js?sv=');
+    </script><script async="" src="https://static.hotjar.com/c/hotjar-707603.js?sv=6"></script>
+    <!-- Google Tag Manager -->
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push(
+                {
+                    'gtm.start': new Date().getTime(), event: 'gtm.js'
+                });
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KBVPPT');
+
+    </script>
+
+    <!-- End Google Tag Manager -->
+
+    <style>
+        #loading {
+            position: fixed;
+            display: block;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            text-align: center;
+            opacity: 0.9;
+            background-color: #fff;
+            z-index: 99999;
+        }
+    </style>
+
+<script async="" src="https://script.hotjar.com/modules.5fe2f4f38cf4833026a9.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script async="" src="https://static.hotjar.com/c/hotjar-1507272.js?sv=6"></script><script src="https://resources-rt.idx.lat/T2.min.js" defer=""></script><script type="text/javascript" id="__mstrkscpt" src="https://ssl.mousestats.com/js/5/0/5048549802281408110.js?2718811" async="" defer=""></script><meta http-equiv="origin-trial" content="AyAn/mFtBYa4Wyk+GnNjBOd+4bBUeWbwyAOxMR+8EnXgn06S1FFiyBquja0zc/37lDGh1P547ivAAKXoCT+9YAgAAACKeyJvcmlnaW4iOiJodHRwczovL2dvb2dsZXRhZ21hbmFnZXIuY29tOjQ0MyIsImZlYXR1cmUiOiJDb252ZXJzaW9uTWVhc3VyZW1lbnQiLCJleHBpcnkiOjE2MzE2NjM5OTksImlzU3ViZG9tYWluIjp0cnVlLCJpc1RoaXJkUGFydHkiOnRydWV9"></head>
+<body class="movistar background-image">
+
+
+    <div id="loading" class="content-overlay content-overlay--gray" style="opacity: 0.9; display: none;">
+        <div class="modal-content dflex">
+            <div class="modal-container modal-container--transp tc">
+                <img class="img-resp control-imgLoader" src="/prepago/ventas-paquetes/images/loading.gif" alt="">
+            </div>
+        </div>
+    </div>
+    <!-- HEADER -->
+    <style type="text/css">
+        .shadow {
+            box-shadow: none !important;
+        }
+    </style>
+
+
+    <nav class="navbar justify-content-center navbar-expand-lg bg-white sticky-top shadow">
+        <a class="navbar-brand" href="https://movistar.co/prepago">
+            <img class="icon-standard" src="/prepago/ventas-paquetes/assets/logos/logo-movistar-blue.svg">
+
+        </a>
+        <div class="nav justify-content-center navbar-bottom btn-group">
+
+            <a class="nav-link" id="PaquetesPrepago" aria-current="page" href="/prepago/ventas-paquetes/">
+                <img class="icon icon-small mobile" src="/prepago/ventas-paquetes/assets/icons/paquete-masa.svg">
+                <div class="nav-link-text">
+                    Paquetes <span class="desktop">prepago</span>
+                </div>
+                <img class="marker d-none" id="MarkerPaquetes" src="/prepago/ventas-paquetes/img/triangle-white.svg">
+            </a>
+            <a class="nav-link active" id="ArmaTuPaquete" href="/prepago/ventas-paquetes/Home/ArmaTuPaquete">
+                <img class="icon icon-small mobile" src="/prepago/ventas-paquetes/assets/icons/paquetes-combo.svg">
+                <div class="nav-link-text">
+                    Arma <span class="desktop">tu paquete</span><span class="mobile">combo</span>
+                </div>
+                <img class="marker" id="MarkerArma" src="/prepago/ventas-paquetes/img/triangle-white.svg">
+            </a>
+            <a class="nav-link" href="https://recargas.movistar.co/" target="_blank">
+                <img class="icon icon-small mobile" src="/prepago/ventas-paquetes/assets/icons/recarga-masa.svg">
+                <div class="nav-link-text">
+                    Recarga <span class="desktop">tu celular</span>
+                </div>
+                <img class="marker d-none" src="/prepago/ventas-paquetes/img/triangle-white.svg">
+            </a>
+
+            <div style="display: none">
+                <a class="nav-link" href="https://www.movistar.co/prepago-recarga-con-la-sele" target="_blank" tabindex="-1">
+                    <img class="icon-small mobile" src="/prepago/ventas-paquetes/assets/icons/adelanta-saldo-masa.svg">
+                    <div class="nav-link-text">
+                        <span class="desktop">Campaña Copa</span> América
+                    </div>
+                    <img class="marker d-none" src="/prepago/ventas-paquetes/img/triangle-white.svg">
+                </a>
+            </div>
+
+        </div>
+    </nav>
+
+    <!--<partial name="_CookieConsentPartial" />-->
+    ﻿
+
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/prepago/ventas-paquetes/images/favicon-movistar.png">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/prepago/ventas-paquetes/css/CssATP/bootstrap.min.css">
+<script type="text/javascript" id="">var MouseStats_Commands=MouseStats_Commands?MouseStats_Commands:[];
+(function(){function b(){if(void 0==document.getElementById("__mstrkscpt")){var a=document.createElement("script");a.type="text/javascript";a.id="__mstrkscpt";a.src=("https:"==document.location.protocol?"https://ssl":"http://www2")+".mousestats.com/js/5/0/5048549802281408110.js?"+Math.floor((new Date).getTime()/6E5);a.async=!0;a.defer=!0;(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}}window.attachEvent?window.attachEvent("onload",b):window.addEventListener("load",
+b,!1);"complete"===document.readyState&&b()})();</script>
+
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:1507272,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script>
+<style>.async-hide { opacity: 0 !important} </style>
+<script type="text/javascript" id="">(function(c,b,d,e,f,a,g,h,k){b.className+=" "+d;a.start=1*new Date;a.end=g=function(){b.className=b.className.replace(RegExp(" ?"+d),"")};(c[e]=c[e]||[]).hide=a;setTimeout(function(){g();a.end=null},f);a.timeout=f})(window,document.documentElement,"async-hide","dataLayer",4E3,{"GTM-KBVPPT":!0});</script><script type="text/javascript" id="">(function(){var a=void 0,b=[],c=document.location.search;c=c.split("\x26");c.forEach(function(a){(a.includes("utm")||a.includes("gclid"))&&b.push(a)});0<b.length&&(a=b.join("\x26"));a&&sessionStorage.setItem("utm",a)})();</script> <script type="text/javascript" id="">var _rl_cn=_rl_cn||0,_rl_ptc="https:"==window.location.protocol?"https":"http";window._rl_ids=window._rl_ids||[];window._rely=window._rely||[];_rl_ids.push({pid:1036,src:0});_rely.send=_rely.send?_rely.send:function(){};
+(function(){var a=document.createElement("script");a.referrerPolicy="no-referrer-when-downgrade";a.type="text/javascript";a.async=!0;a.src=_rl_ptc+"://api.retargetly.com/loader?id\x3d"+_rl_ids[_rl_ids.length-1].pid;a.id="rely-api-"+_rl_cn++;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script> <iframe id="rely-iframe-1" src="https://api.retargetly.com/api?id=1036&amp;src=0&amp;url=https%3A%2F%2F190.13.96.22%2Fprepago%2Fventas-paquetes%2FHome%2FArmaTuPaquete&amp;browserUrl=undefined&amp;ref=https%3A%2F%2F190.13.96.22%2Fprepago%2Fventas-paquetes%2F&amp;utmz=&amp;n=&amp;md=Encuentra%20los%20Paquetes%20Prepago%20Movistar%20con%20tus%20beneficios%20favoritos.%20Navega%20y%20habla%20ilimitadamente%2C%20por%20d%C3%ADas%20o%20semanas%2C%20de%20acuerdo%20con%20tus%20necesidades.%20%C2%A1Compra%20en%20l%C3%ADnea!&amp;mk=&amp;il=0&amp;limit_drop=&amp;userid=9ee89d60-a82f-4cd7-9d04-7ac517871a12&amp;idx=" referrerpolicy="no-referrer-when-downgrade" style="display: none;"></iframe>
+    <!--<link rel="stylesheet" href="css/bootstrap.css" />-->
+
+    <link rel="stylesheet" href="/prepago/ventas-paquetes/css/styleModal.css?n=1">
+    <!--<link rel="stylesheet" href="~/css/CssATP/MovistarIcons/style.css" />-->
+    <!-- load MUI -->
+    <!--<link href="~/css/mui.min.css" rel="stylesheet" type="text/css" />
+    <script src="js/mui.min.js"></script>-->
+    <!-- CSS -->
+    <link rel="stylesheet" href="/prepago/ventas-paquetes/css/CssATP/estilos.css">
+    <!-- JS -->
+    <title>Arma tu Paquete Prepago</title>
+
+    <style>
+        .movistar .navbar-bottom {
+            position: initial !important;
+        }
+        .shadow {
+            box-shadow: none !important;
+        }
+
+    </style>
+
+    <script src="/prepago/ventas-paquetes/js/jquery-3.5.js"></script>
+    <script src="/prepago/ventas-paquetes/js/index.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
+    <script type="text/javascript">
+        function validarNumero(e) {
+            tecla = (document.all) ? e.keyCode : e.which;
+            if (tecla == 8) return true;
+            patron = /[0-9]/;
+            te = String.fromCharCode(tecla);
+            return patron.test(te);
+        }
+        function limpiarNumero(obj) {
+            $('#btnPagarATP').attr("disabled", false);
+            $('#btnPagarATP').css('background', '#019BF2');
+            $("#txtAlertATP").html("");
+            /* El evento "change" sólo saltará si son diferentes */
+            obj.value = obj.value.replace(/\D/g, '');
+        }
+    </script>
+
+    <script type="text/javascript" src="https://checkout.epayco.co/checkout.js?version=1631287029652"></script>
+    <title>Arma tu Paquete</title>
+    <!-- Google Tag Manager -->
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KBVPPT');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTMKBVPPT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Header  -->
+    <!-- Version Web-->
+    <!-- Version Movil-->
+
+    <!-- Body web  -->
+
+    <div class="mainArticle container d-flex flex-wrap pt-5 pb-5">
+        <div class="col-12 col-sm-12 col-md-8">
+            <div class="pr-0 pr-md-3 pr-lg-5 d-flex justify-content-between">
+                <div class="">
+                    <p class="text-bold telefonica-bold font-size-42">Arma tu paquete</p>
+                </div>
+            </div>
+            <div class="pr-0 pr-md-3 pr-lg-5 py-3 py-md-4 d-md-flex justify-content-center">
+                <p class="font-size-21 color-gray-1 text-center gray-subtitle-2 mb-0">Elegir lo que más te gusta nunca fue tan fácil</p>
+            </div>
+            <div class="pr-0 pr-lg-5 offerings-container font-size-21">
+                <div class="offering-row d-flex">
+                    <div class="offering-type d-flex align-items-center my-2">
+                        <div class="d-flex align-items-center">
+                            <!--<i class="telefonica icon icon-24 icon-phone-outgoing color-blue-1"></i>-->
+                            <img src="/prepago/ventas-paquetes/images/phone-icon.svg">
+                            <div class="pl-3">
+                                <p class="mb-0 telefonica-bold">Minutos</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex offering-options-container ml-2">
+                        <div class="d-flex align-items-center justify-content-center box default-option offering-option m-2 border-blue">
+                            <span>Minutos ilimitados</span>
+                        </div>
+                        <div class="w-100"></div>
+                    </div>
+                </div>
+                <div class="offering-row d-flex py-3">
+                    <div class="offering-type d-flex align-items-center my-2">
+                        <div class="d-flex align-items-center">
+                            <img src="/prepago/ventas-paquetes/images/internet-3.svg">
+                            <div class="pl-3">
+                                <p class="mb-0 telefonica-bold">Navega</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex offering-options-container m-0 ml-md-2">
+                        <div data-type="browse" class="d-flex align-items-center justify-content-center box offering-option m-1 m-md-2 border-blue">
+                            <span>2.5GB</span>
+                        </div>
+                        <div data-type="browse" class="d-flex align-items-center justify-content-center box offering-option highlighted-offering highlighted-offering-star m-1 m-md-2">
+                            <span>5GB</span>
+                        </div>
+                        <div data-type="browse" class="d-flex align-items-center justify-content-center box offering-option m-1 m-md-2">
+                            <span>10GB</span>
+                        </div>
+                        <div class="w-100"></div>
+                    </div>
+                </div>
+                <div class="offering-row d-flex py-3">
+                    <div class="offering-type d-flex align-items-center my-2">
+                        <div class="d-flex">
+                            <!--<i class="telefonica icon icon-24 icon-larga-distancia color-blue-1"></i>-->
+                            <img class="not-centered" src="/prepago/ventas-paquetes/images/larga-distancia-3-masa.svg">
+                            <div class="pl-3">
+                                <p class="mb-0 telefonica-bold">Minutos LDI</p>
+                                <p class="mb-0 color-gray-1 font-size-18 gray-subtitle-2">Larga distancia internacional</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex offering-options-container m-0 ml-md-2">
+                        <div data-type="ldi" class="d-flex align-items-center justify-content-center box offering-option m-1 m-md-2 border-blue">
+                            <span>10 Min.</span>
+                        </div>
+                        <div data-type="ldi" class="d-flex align-items-center justify-content-center box offering-option m-1 m-md-2">
+                            <span>20 Min.</span>
+                        </div>
+                        <div data-type="ldi" class="d-flex align-items-center justify-content-center box offering-option highlighted-offering highlighted-offering-star m-1 m-md-2">
+                            <span>50 Min.</span>
+                        </div>
+                        <div class="w-100"></div>
+                    </div>
+                </div>
+                <div class="offering-row d-flex py-3">
+                    <div class="offering-type d-flex align-items-center my-2">
+                        <div class="d-flex align-items-center">
+                            <!--<i class="telefonica icon icon-24 icon-calendar-clock color-blue-1"></i>-->
+                            <img src="/prepago/ventas-paquetes/images/calendario.svg">
+                            <div class="pl-3">
+                                <p class="mb-0 telefonica-bold">Vigencia</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="d-flex offering-options-container m-0 ml-md-2">
+                        <div data-type="valid" class="d-flex align-items-center justify-content-center box offering-option m-1 m-md-2">
+                            <span>7 Días</span>
+                        </div>
+                        <div data-type="valid" class="d-flex align-items-center justify-content-center box offering-option highlighted-offering highlighted-offering-star m-1 m-md-2">
+                            <span>15 Días</span>
+                        </div>
+                        <div data-type="valid" class="d-flex align-items-center justify-content-center box offering-option m-1 m-md-2">
+                            <span>30 Días</span>
+                        </div>
+                        <div class="w-100"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="pr-0 pr-md-3 pr-lg-5 py-5 d-flex justify-content-center allpacks-section-container">
+                <div class="d-none d-md-flex justify-content-around bg-color-gray-1 p-3 allpacks-section font-size-21">
+                    <div class="d-flex align-items-center allpacks-title">
+                        <p class="telefonica-bold mb-0">Todos los paquetes vienen con:</p>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <img src="/prepago/ventas-paquetes/images/mail-icon.svg">
+                        <div class="pl-3">
+                            <p class="telefonica-bold mb-0">SMS ilimitado</p>
+                            <p class="font-size-18 mb-0">Todo destino</p>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <img src="/prepago/ventas-paquetes/images/phone-icon.svg">
+                        <div class="pl-3">
+                            <p class="telefonica-bold mb-0">Minutos TDI</p>
+                            <p class="font-size-18 mb-0">Todo destino ilimitado</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex d-md-none justify-content-around bg-color-gray-1 py-3 w-100 allpacks-section allpacks-section-mobile font-size-14 px-3">
+                    <div class="w-100 allpacks-title font-size-18 pb-1">
+                        <p class="telefonica-bold">Todos los paquetes vienen con:</p>
+                    </div>
+                    <div class="d-flex">
+                        <div class="d-flex align-items-start included-item">
+                            <img src="/prepago/ventas-paquetes/images/mail-icon.svg">
+                            <div class="pl-2">
+                                <p class="font-size-14 telefonica-bold mb-0">SMS ilimitado</p>
+                                <p class="font-size-12 mb-0">Todo destino</p>
+                            </div>
+                        </div>
+                        <div class="d-flex align-items-start included-item">
+                            <img src="/prepago/ventas-paquetes/images/phone-icon.svg">
+                            <div class="pl-2">
+                                <p class="font-size-14 telefonica-bold mb-0">Minutos TDI</p>
+                                <p class="font-size-12 mb-0">Todo destino ilimitado</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="pr-0 pr-md-3 pr-lg-5 py-5">
+                <p class="text-center m-0 color-gray-3 gray-subtitle font-size-20">Paga de forma fácil con</p>
+                <div class="d-flex justify-content-center align-items-center p-3 payment-method">
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/pse.png">
+                    </div>
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/efecty.svg">
+                    </div>
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/visa.svg">
+                    </div>
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/mastercard.svg">
+                    </div>
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/amex.svg">
+                    </div>
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/dinners.svg">
+                    </div>
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/daviplata.png">
+                    </div>
+                    <div class="mx-2 mx-md-3">
+                        <img src="/prepago/ventas-paquetes/images/payment-icons/codensa.png">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-12 col-md-4 py-3 px-md-3 px-lg-5 border-gray pack-bar">
+            <div class="d-flex align-items-center justify-content-center d-md-none color-blue-1">
+                <span class="view more font-size-12">Ver más <img src="/prepago/ventas-paquetes/images/chevron-up.png" class="ml-1 mb-1 chevron chevron-up"></span>
+                <span class="view less font-size-12">Ver menos <img src="/prepago/ventas-paquetes/images/chevron-down.png" class="ml-1 mb-1 chevron chevron-down"></span>
+            </div>
+            <div class="position-relative pack-bar-title">
+                <p class="text-center telefonica-bold font-size-26 mb-0 mb-md-3 color-blue-1">Tu paquete elegido</p>
+            </div>
+            <div class="d-md-block selected-options-container">
+                <div class="py-2 py-md-3">
+                    <p class="text-center font-size-18 apps-desc">El paquete incluye todas <span class="telefonica-bold">tus Apps favoritas Ilimitadas</span>:</p>
+                    <div class="d-flex justify-content-center">
+                        <div class="d-flex justify-content-center apps-container">
+                            <div class="m-2">
+                                <img src="/prepago/ventas-paquetes/images/apps-icons/facebook-copy.svg">
+                            </div>
+                            <div class="m-2">
+                                <img src="/prepago/ventas-paquetes/images/apps-icons/whatsapp-copy.png">
+                            </div>
+                            <div class="m-2">
+                                <img src="/prepago/ventas-paquetes/images/apps-icons/twitter-copy.svg">
+                            </div>
+                            <div class="m-2">
+                                <img src="/prepago/ventas-paquetes/images/apps-icons/waze-copy.svg">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="d-flex justify-content-center picked-offerings-container">
+                    <div class="text-center position-relative p-1 p-md-3 my-2 mx-1 mx-md-0 my-md-3 font-size-21 picked-offering default-picked-offering">
+                        <div class="close-btn position-absolute invisible">
+                            <img src="/prepago/ventas-paquetes/images/x-2.svg" alt="Alternate Text">
+                        </div>
+                        <p class="telefonica-bold m-0 option-name">Minutos</p>
+                        <span class="color-gray-1 option-description">Todo destino ilimitado</span>
+                    </div>
+                    <div class="text-center position-relative p-1 p-md-3 my-2 mx-1 mx-md-0 my-md-3 font-size-21 picked-offering">
+                        <div class="close-btn position-absolute">
+                            <img src="/prepago/ventas-paquetes/images/x-2.svg" alt="Alternate Text">
+                        </div>
+                        <p class="telefonica-bold m-0 option-name">Minutos LDI</p>
+                        <span class="color-gray-1 option-description">10 Min.</span>
+                    </div><div class="text-center position-relative p-1 p-md-3 my-2 mx-1 mx-md-0 my-md-3 font-size-21 picked-offering">
+                        <div class="close-btn position-absolute">
+                            <img src="/prepago/ventas-paquetes/images/x-2.svg" alt="Alternate Text">
+                        </div>
+                        <p class="telefonica-bold m-0 option-name">Navega</p>
+                        <span class="color-gray-1 option-description">2.5GB de internet</span>
+                    </div><div class="text-center p-1 p-md-3 my-2 mx-1 mx-md-0 my-md-3 d-flex empty-offering justify-content-center align-items-center">
+                        <span class="color-gray-1">Selecciona una oferta</span>
+                    </div>
+                    <div class="text-center p-1 p-md-3 my-2 mx-1 mx-md-0 my-md-3 empty-offering justify-content-center align-items-center d-none">
+                        <span class="color-gray-1">Selecciona una oferta</span>
+                    </div>
+                    <div class="text-center p-1 p-md-3 my-2 mx-1 mx-md-0 my-md-3 empty-offering justify-content-center align-items-center d-none">
+                        <span class="color-gray-1">Selecciona una oferta</span>
+                    </div>
+                </div>
+            </div>
+
+            <div id="divPrice" class="pack-detail pt-2 pt-md-4 mx-2 mx-md-0 d-none">
+                <div class="telefonica-bold d-md-flex align-items-center justify-content-between">
+                    <div class="color-blue-2 pack-total-desc">
+                        <p class="mb-0 font-size-18">Total Paquete</p>
+                        <p class="mb-0 font-size-12">IVA incluido</p>
+                    </div>
+                    <div class="d-flex font-size-36 color-blue-1">
+                        $<span id="valueIva"></span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="telefonica-regular py-2 py-md-4 tyc">
+                <p class="color-blue-2 text-center mb-0">
+                    Al continuar acepto los <a class="color-blue-2" href="https://www.movistar.co/documents/117302439/406653544/T&amp;C+Venta+de+paquetes+prepago+desde+pagina+web+Agosto+2020.pdf/1fa50b91-d78f-22c2-377d-12bb54a0f7e7" target="_blank" rel="noopener noreferrer">términos y condiciones</a>
+                </p>
+            </div>
+
+            <div class="telefonica-bold d-flex align-items-center justify-content-between payment-btn-container">
+                <button class="btn bg-color-blue-1 font-size-18 w-100 my-2 mx-1 mx-md-0 jsModalUpATP" id="payButton" disabled="">Pagar</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MODAL -->
+    <div id="modalShowUpATP" class="content-overlay">
+        <div class="modal-content dflex" style="background: transparent;">
+            <div class="modal-container tc">
+                <div class="modal-container__close tr">
+                    <svg class="btnClose jsBtnModalCloseATP" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path d="M0 0h24v24H0z" fill="none"></path>
+                        <path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path>
+                    </svg>
+                </div>
+                <h2 class="modal-container__title tx-blueDark"><b>Compra tu paquete Online</b></h2>
+                <p class="modal-container__text tx-blueDark">Tu paquete seleccionado fue</p>
+                <div class="dflex modal-container__offering">
+                    <div class="offering-head" style="height: 100px; padding-top: 14px">
+                        <p id="modalPriceATP" class="offering-textBig"></p>
+                        <p id="priceDescriptionATP" class="offering-text"></p>
+                        <p hidden="" id="modalCodeOfferATP"></p>
+                    </div>
+                    <div class="offering-body" style="height: 100px; padding-top: 14px;">
+                        <p class="offering-text">Vigencia x <b><label id="modalValidOffertATP"></label></b></p>
+                        <p id="modalNavegationATP" class="offering-textBig" style="font-size: 18px"></p>
+                    </div>
+                </div>
+                
+                <p class="modal-container__text tx-blueDark">Ingresa tu número de línea Movistar para continuar con la compra del paquete.</p>
+                <form id="modalNumberATP" class="modal-container__form" action="?" method="POST">
+                    <div class="dflex modalForm-group">
+                        <div class="modalForm-group__item">
+                            <i>
+                                <input class="modalForm-control" type="tel" name="phoneNumber" maxlength="10" id="phoneNumberATP" placeholder="Ingresa el número de la línea" onkeyup="limpiarNumero(this)" onchange="limpiarNumero(this)" onkeypress="return validarNumero(event)">
+                            </i>
+                            <p id="txtAlertATP" class="modalForm-textError tl active" style="visibility:">
+
+            </p>
+            </div>
+            <div class="modalForm-group__item modalForm-recaptcha">
+                <!-- Captcha Pruebas -->
+                <!--div class="g-recaptcha" data-sitekey="6Lfsm7IZAAAAAPRtZ-dadP7kiA6gWRmi1nd8A3Kh" data-size="invisible" data-callback="onSubmit"></div-->
+                <!-- Captcha Desarrollo -->
+                <!--div class="g-recaptcha" data-sitekey="6LeLKrkZAAAAAHpmDBdMXhErVWIkR7qD7t7zsm0S" data-size="invisible" data-callback="onSubmit"></div-->
+                <!-- Captcha Producción -->
+                <div class="g-recaptcha" data-sitekey="6Lfsm7IZAAAAAPRtZ-dadP7kiA6gWRmi1nd8A3Kh" data-size="invisible" data-callback="onSubmit"><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6Lfsm7IZAAAAAPRtZ-dadP7kiA6gWRmi1nd8A3Kh&amp;co=aHR0cHM6Ly8xOTAuMTMuOTYuMjI6NDQz&amp;hl=es&amp;v=wxAi4AKLXL2kBAvXqI4XLSWS&amp;size=invisible&amp;cb=u6vsvabafiw" width="256" height="60" role="presentation" name="a-dq2x9y9hz6mm" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div>
+            </div>
+            </div>
+            <p class="modalForm-textError">Lo sentimos, no pudimos finalizar tu transacción, valida tu información e <br class="h-xs">intenta nueva mente</p>
+            <b><input id="btnPagarATP" class="modalForm__btn" type="button" value="Pagar" onclick="grecaptcha.execute();"></b>
+            </form>
+            </div>
+        </div>
+    </div>
+
+<script>
+        var onSubmit = function (token) {
+            if (token) {
+                try {
+                    $('#loading').show();
+                    var numberToSend = $("#modalShowUpATP").find("#phoneNumberATP").val();
+                    var codeOffer = $("#modalShowUpATP").find("#modalCodeOfferATP").text();
+                    var url = "/prepago/ventas-paquetes/Home/ValidateNumber";
+                    var data = { subscriberNumber: numberToSend, offerCode: codeOffer, token };
+                    $('#btnPagarATP').attr("disabled", true);
+                    $('#btnPagarATP').css('background', '#e5e5e5')
+                    var data = { subscriberNumber: numberToSend, offerCode: codeOffer, token };
+                        $('#btnPagarATP').attr("disabled", true);
+                        $('#btnPagarATP').css('background', '#e5e5e5')
+                    $.post(url, data).done(function (result) {
+                        writeIntoLogFileATP('Begin Function ValidateNumber');
+                        writeIntoLogFileATP('Result: ' + result);
+                            if (result.result == true) {
+                                writeIntoLogFileATP('Validation Number is OK');
+                                showEPaycoATP(result.siteKey, result.test, result.transaction, result.data);
+                                $('#loading').hide();
+                            } else {
+                                writeIntoLogFileATP('Validation Number FAILED');
+                               $("#txtAlertATP").load(window.location.href + " #txtAlertATP");
+                                $("#txtAlertATP").html(result.response);
+                                updateTempDataATP(result.response);
+                                $('#loading').hide();
+                            }
+                        }).fail(function (e) {
+                            writeIntoLogFileATP('Error to call validate Number function');
+                            writeIntoLogFileATP(e);
+                            $('#loading').hide();
+                            window.location.href = '/Home/Error404?Error=2';
+                    }); }
+                catch (E) { writeIntoLogFileATP(E); }
+            }
+        };
+        function writeIntoLogFileATP(v) {
+              var url = "/prepago/ventas-paquetes/Home/writeLog";
+              var text = '';
+              if (typeof v === 'object') {
+                  text = JSON.stringify(v);
+              } else if (typeof v === 'string') {
+                  text = v;
+              }
+
+                var data = { text };
+                $.post(url, data).done(function () {
+                    //NITIDO.
+                })
+            }
+</script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        cargaArmaTuPaquete();
+        $('#loading').hide();
+    });
+
+    function cargaArmaTuPaquete() {
+        $('#PaquetesPrepago').removeClass('active'),
+            $('#ArmaTuPaquete').addClass('active'),
+            $('#MarkerPaquetes').addClass('d-none'),
+            $('#MarkerArma').removeClass('d-none');
+    }
+</script>
+
+
+
+
+
+    <footer>
+        <!--<p>&copy; 2020 - VentaPaquetesWeb</p>-->
+    </footer>
+
+    
+    
+    
+    /
+
+
+<script type="text/javascript" id="">(function(c,l,r,A){var v={minHeight:0,elements:[],percentage:!0,userTiming:!0,pixelDepth:!0,nonInteraction:!0,gaGlobal:!1,gtmOverride:!1},m=c(l),f=[],p=!1,g=0,n,t,h,k;c.scrollDepth=function(a){function u(b,e,d,c){if(k)k({event:"ScrollDistance",eventCategory:"Scroll Depth",eventAction:b,eventLabel:e,eventValue:1,eventNonInteraction:a.nonInteraction}),a.pixelDepth&&2<arguments.length&&d>g&&(g=d,k({event:"ScrollDistance",eventCategory:"Scroll Depth",eventAction:"Pixel Depth",eventLabel:(250*Math.floor(d/
+250)).toString(),eventValue:1,eventNonInteraction:a.nonInteraction})),a.userTiming&&3<arguments.length&&k({event:"ScrollTiming",eventCategory:"Scroll Depth",eventAction:b,eventLabel:e,eventTiming:c});else{if(n&&(l[h]("send","event","Scroll Depth",b,e,1,{nonInteraction:a.nonInteraction}),a.pixelDepth&&2<arguments.length&&d>g&&(g=d,l[h]("send","event","Scroll Depth","Pixel Depth",(250*Math.floor(d/250)).toString(),1,{nonInteraction:a.nonInteraction})),a.userTiming&&3<arguments.length))l[h]("send","timing",
+"Scroll Depth",b,c,e);t&&(_gaq.push(["_trackEvent","Scroll Depth",b,e,1,a.nonInteraction]),a.pixelDepth&&2<arguments.length&&d>g&&(g=d,_gaq.push(["_trackEvent","Scroll Depth","Pixel Depth",(250*Math.floor(d/250)).toString(),1,a.nonInteraction])),a.userTiming&&3<arguments.length&&_gaq.push(["_trackTiming","Scroll Depth",b,c,e,100]))}}function w(b,a,d){c.each(b,function(b,e){-1===c.inArray(b,f)&&a>=e&&(u("Percentage",b,a,d),f.push(b))})}function x(b,a,d){c.each(b,function(b,e){-1===c.inArray(e,f)&&
+c(e).length&&a>=c(e).offset().top&&(u("Elements",e,a,d),f.push(e))})}function y(b,a){var d,c,e,f=null,g=0,l=function(){g=new Date;f=null;e=b.apply(d,c)};return function(){var h=new Date;g||(g=h);var k=a-(h-g);d=this;c=arguments;0>=k?(clearTimeout(f),f=null,g=h,e=b.apply(d,c)):f||(f=setTimeout(l,k));return e}}function q(){p=!0;m.on("scroll.scrollDepth",y(function(){var b=c(r).height(),e=l.innerHeight?l.innerHeight:m.height();e=m.scrollTop()+e;b={"25%":parseInt(.25*b,10),"50%":parseInt(.5*b,10),"75%":parseInt(.75*
+b,10),"100%":b-5};var d=+new Date-z;f.length>=a.elements.length+(a.percentage?4:0)?(m.off("scroll.scrollDepth"),p=!1):(a.elements&&x(a.elements,e,d),a.percentage&&w(b,e,d))},500))}var z=+new Date;a=c.extend({},v,a);c(r).height()<a.minHeight||(a.gaGlobal?(n=!0,h=a.gaGlobal):"function"===typeof ga?(n=!0,h="ga"):"function"===typeof __gaTracker&&(n=!0,h="__gaTracker"),"undefined"!==typeof _gaq&&"function"===typeof _gaq.push&&(t=!0),"function"===typeof a.eventHandler?k=a.eventHandler:"undefined"===typeof dataLayer||
+"function"!==typeof dataLayer.push||a.gtmOverride||(k=function(a){dataLayer.push(a)}),c.scrollDepth.reset=function(){f=[];g=0;m.off("scroll.scrollDepth");q()},c.scrollDepth.addElements=function(b){"undefined"!=typeof b&&c.isArray(b)&&(c.merge(a.elements,b),p||q())},c.scrollDepth.removeElements=function(b){"undefined"!=typeof b&&c.isArray(b)&&c.each(b,function(b,d){b=c.inArray(d,a.elements);d=c.inArray(d,f);-1!=b&&a.elements.splice(b,1);-1!=d&&f.splice(d,1)})},q())}})(jQuery,window,document);jQuery.scrollDepth();</script><script type="text/javascript" id="">function addEvent(a,b,c){if(a.addEventListener)a.addEventListener(b,c);else if(a.attachEvent)a.attachEvent("on"+b,function(d){c.call(a,d)});else if("undefined"===typeof a["on"+b]||null===a["on"+b])a["on"+b]=function(d){c.call(a,d)}}
+addEvent(window,"message",function(a){var b=event.data;b=b.toString();b=b.split(",");"formSubmit"!==b[0]||"https://clicktocallb-redisenio-dot-modified-wonder-87620.appspot.com"!==a.origin&&"https://clicktocalltlmarkb-redisenio-dot-modified-wonder-87620.appspot.com"!==a.origin&&"https://clicktocallb-redisenio-octopus-dot-modified-wonder-87620.appspot.com"!==a.origin&&"https://movistar-integracion-dot-modified-wonder-87620.appspot.com"!==a.origin&&"https://mi.movistar.co"!==a.origin&&"https://ofertas.movistar.co/"!==
+a.origin&&"https://e2e.movistar.com.co"!==a.origin||dataLayer.push({event:b[0],eventAction:b[1],eventCategory:b[2],eventLabel:b[3],eventURL:google_tag_manager["GTM-KBVPPT"].macro(70)})});</script><script type="text/javascript" id="">function addEvent(a,b,c){if(a.addEventListener)a.addEventListener(b,c);else if(a.attachEvent)a.attachEvent("on"+b,function(d){c.call(a,d)});else if("undefined"===typeof a["on"+b]||null===a["on"+b])a["on"+b]=function(d){c.call(a,d)}}
+addEvent(window,"message",function(a){"undefined"!=typeof a.data&&-1<a.data.toString().indexOf("gapm-")&&("https://ofertas.movistar.co"===a.origin||"https://movistar-integracion-dot-modified-wonder-87620.appspot.com"===a.origin||"https://atestfrontrecargaswa01.azurewebsites.net"===a.origin)&&dataLayer.push(JSON.parse(a.data.substring(5)))});</script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-dfc01efbdc94bb0936d9a35a502b0b64.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><script src="https://api.retargetly.com/data?id=1036&amp;external_id=1489465571.1631287026&amp;userid=9ee89d60-a82f-4cd7-9d04-7ac517871a12&amp;idx=" referrerpolicy="no-referrer-when-downgrade"></script><iframe height="0" width="0" style="display: none; visibility: hidden;" src="//4626130.fls.doubleclick.net/activityi;src=4626130;type=fwbog001;cat=lpg_c004;ord=492451768980;gtm=2wg910;auiddc=567738099.1631287026;u23=https%3A%2F%2F190.13.96.22%2Fprepago%2Fventas-paquetes%2FHome%2FArmaTuPaquete;ps=1;~oref=https%3A%2F%2F190.13.96.22%2Fprepago%2Fventas-paquetes%2FHome%2FArmaTuPaquete?"></iframe><div style="visibility: hidden; position: absolute; width: 100%; top: -10000px; left: 0px; right: 0px; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.5;"></div><div style="margin: 0px auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2000000000; background-color: rgb(255, 255, 255); overflow: hidden;"><iframe title="Prueba reCAPTCHA" src="https://www.google.com/recaptcha/api2/bframe?hl=es&amp;v=wxAi4AKLXL2kBAvXqI4XLSWS&amp;k=6Lfsm7IZAAAAAPRtZ-dadP7kiA6gWRmi1nd8A3Kh&amp;cb=n31qjqclmuch" name="c-dq2x9y9hz6mm" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","450968755538487");fbq("track","Trafico_Prepago_TodoEnUno");</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=450968755538487&amp;ev=PageView&amp;noscript=1"></noscript>
+</body></html>

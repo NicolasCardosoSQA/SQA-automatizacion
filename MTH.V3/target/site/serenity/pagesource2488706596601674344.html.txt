@@ -1,0 +1,26 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<link class="component" href="/ADMAdmin/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/basic_both.xcss/DATB/eAFrvajdHLp8hjQAEgwDtA__.view" rel="stylesheet" type="text/css"><link class="component" href="/ADMAdmin/a4j/s/3_3_3.Finalorg/richfaces/renderkit/html/css/extended_both.xcss/DATB/eAFrvajdHLp8hjQAEgwDtA__.view" rel="stylesheet" type="text/css"><script type="text/javascript">window.RICH_FACES_EXTENDED_SKINNING_ON=true;</script><script src="/ADMAdmin/a4j/g/3_3_3.Finalorg/richfaces/renderkit/html/scripts/skinning.js.view" type="text/javascript"></script></head>
+<body>
+<form id="j_id2" name="j_id2" method="post" action="/ADMAdmin/test/test1.view" enctype="application/x-www-form-urlencoded">
+<input type="hidden" name="j_id2" value="j_id2">
+
+	source:<input type="text" name="j_id2:j_id4" value="SMS">
+	<br>
+	shortCut:<input type="text" name="j_id2:j_id6" value="3690">
+	<br>
+	subscriberNumber:<input type="text" name="j_id2:j_id8" value="3152311339">
+	<br>
+	requestText<input type="text" name="j_id2:j_id10" value="3178429243 1000">
+	<br><input type="submit" name="j_id2:j_id12" value="Probar">
+	<br>
+	error:
+	<br>
+	requestId:458858466
+	<br><input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="j_id4">
+</form>
+
+</body></html>
